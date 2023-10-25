@@ -1,0 +1,1 @@
+# my-github-repos is a simple plugin that access Github using its API to retrieve a list of repos for a particular user. Administration is handled in the backend, and presented in the frontend as a widget, using the WP_widget class.
